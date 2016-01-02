@@ -1,6 +1,4 @@
 Extinction Guild Public Website
 ===============================
 
-TODO:
-
-  - Customize Discourse theme to match (in progress)
+This guild is currently in hibernation.  Check back when the Star Citizen PTU is finally released, ETA 2018.
